@@ -1,0 +1,14 @@
+-MAKEUD=D:\phanmem\learn_renasas\demombrtu\HardwareDebug\\demombrtu_c.ud
+-input="demombrtu.abs"
+-form=stype
+-output="demombrtu.mot"
+-byte_count=10
+-nologo
+-nomessage
+-end
+-input="demombrtu.abs"
+-form=binary
+-output="demombrtu.bin"
+-nologo
+-nomessage
+-exit

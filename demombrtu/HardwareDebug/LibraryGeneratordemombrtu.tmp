@@ -1,0 +1,8 @@
+-MAKEUD_LBG="D:\phanmem\learn_renasas\demombrtu\HardwareDebug\\demombrtu_lbg.ud"
+-isa=rxv1
+-nofpu
+-lang=c99
+-head=runtime,stdarg,stdio,stdlib,string,new
+-output="demombrtu.lib"
+-optimize=1
+-nologo

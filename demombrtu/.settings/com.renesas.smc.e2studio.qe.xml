@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<QE>
+    <Segment id="Project">
+        <Setting id="SrcGeneratedPath" value="src/smc_gen"/>
+    </Segment>
+    <Segment id="Pin">
+        <Setting id="P27" value="P27"/>
+        <Setting id="MD" value="FINED"/>
+        <Setting id="PE0" value="PE0"/>
+        <Setting id="PE2" value="RXD12"/>
+        <Setting id="PE1" value="TXD12"/>
+    </Segment>
+    <Segment id="Device">
+        <Setting id="Series" value="RX100"/>
+        <Setting id="Group" value="RX130"/>
+        <Setting id="Board" value="Custom User Board"/>
+        <Setting id="PartNo" value="R5F51305AxFM"/>
+        <Setting id="PinCount" value="64"/>
+    </Segment>
+    <Segment id="Clock">
+        <Setting id="PCLKD" value="32000.0"/>
+        <Setting id="PCLKB" value="32000.0"/>
+        <Setting id="CacHocoCLK" value="32000.0"/>
+        <Setting id="VCC" value="3.3"/>
+        <Setting id="ICLK" value="32000.0"/>
+        <Setting id="FCLK" value="32000.0"/>
+        <Setting id="SysCLKSrc" value="1.0"/>
+        <Setting id="ExtCLK" value="8000.0"/>
+    </Segment>
+    <Segment id="Component">
+        <Setting id="r_bsp" value="FIT"/>
+        <Setting id="Config_SCI12" value="CG"/>
+        <Setting id="Config_PORT" value="CG"/>
+        <Setting id="r_gpio_rx" value="FIT"/>
+        <Setting id="Config_CMT0" value="CG"/>
+    </Segment>
+</QE>
